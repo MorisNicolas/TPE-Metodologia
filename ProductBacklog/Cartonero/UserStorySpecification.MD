@@ -54,6 +54,10 @@
 
 >>>o	DNI
 
+>>>o	Mail
+
+>>>o	Contraseña
+
 >>>o	Teléfono
 
 >>>o 	Dirección
