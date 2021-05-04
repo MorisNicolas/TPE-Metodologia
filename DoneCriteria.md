@@ -18,4 +18,4 @@
 
 >-El código debe encontrarse estandarizado y legible.
 
-Hacer un testeo para corroborar el correcto funcionamiento de lo desarrollado.
+>-Hacer un testeo para corroborar el correcto funcionamiento de lo desarrollado.
