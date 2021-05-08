@@ -13,10 +13,6 @@
 >
 >> El sistema inicia el algoritmo para generar el listado.
 >
->> El algoritmo busca los domicilios de los cuales los empleados deben visitar
->
->>El mismo algoritmo debe seleccionar domicilios para cada empleado que pueda buscar esos materiales cumpliendo correctamente con la categoria de transporte y sin superar la distancia maxima
->
 >> El algoritmo crea el listado de recorrido.
 >
 >> Automáticamente al crear el listado, el listado es enviado al correo de la secretaria.
