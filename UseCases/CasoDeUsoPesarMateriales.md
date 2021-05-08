@@ -31,16 +31,10 @@
 >
 >>El empleado debe iniciar sesión correctamente en el sistema antes de pesar los materiales.
 
-## 6.Suposiciones: 
->
->>El empleado inicia sesión correctamente.
->
->>El empleado le dice al sistema que ya cargo todo lo recogido.
-
-## 7.Casos de uso Incluidos: 
+## 6.Casos de uso Incluidos: 
 >
 >>Cargar kilos a cartonero.
 
-## 8.Finalizacion de caso de uso: 
+## 7.Finalizacion de caso de uso: 
 >
 >>El caso de uso se desarrolló de forma correcta.                 
