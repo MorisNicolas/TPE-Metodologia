@@ -1,25 +1,46 @@
-#Uso de caso: Pesar Materiales
+# Uso de caso: 
+>Pesar Materiales
 
-##Descripcion Breve: El cartonero quiere pesar los materiales recogidos de los domicilios.
+## 1.Descripcion Breve: 
+>El cartonero quiere pesar los materiales recogidos de los domicilios.
 
-##Actor Primario: Cartonero.
+## 2.1Actor Primario: 
+>Cartonero.
 
-##Actor Secundario: Balanza.
+## 2.2Actor Secundario: 
+>Balanza.
 
-##Trigger: El caso de uso inicia cuando el empleado llega al centro de acopio y quiere pesar los materiales recogidos.
+## 3.Curso básico: 
+>
+>>El empleado llega al centro de acopio y quiere cargar en el sistema el peso de los materiales que trajo de los domicilios.
+>
+>>El empleado debe iniciar sesión en el sistema.
+>
+>>El empleado selecciona que material va a pesar en la balanza.
+>
+>>[INCLUDE] Cargar kilos a cartonero.
+>
+>>El empleado selecciona en el sistema que ya termino de cargar materiales.
+>
+>>El caso de uso finaliza.
 
-##Curso básico: 1. El empleado llega al centro de acopio y quiere cargar en el sistema el peso de los materiales que trajo de los domicilios.
-                2. El empleado debe iniciar sesión en el sistema.
-                3. El empleado selecciona que material va a pesar en la balanza.
-                4. [INCLUDE] Cargar kilos a cartonero.
-                5. El empleado selecciona en el sistema que ya termino de cargar materiales.
-                6. El caso de uso finaliza.
+## 4.Trigger: 
+>El caso de uso inicia cuando el empleado llega al centro de acopio y quiere pesar los materiales recogidos.
 
-##Precondición: 1. El empleado debe iniciar sesión correctamente en el sistema antes de pesar los materiales.
+## 5.Precondición: 
+>
+>>El empleado debe iniciar sesión correctamente en el sistema antes de pesar los materiales.
 
-##Suposiciones: 1. El empleado inicia sesión correctamente.
-                2. El empleado le dice al sistema que ya cargo todo lo recogido.
+## 6.Suposiciones: 
+>
+>>El empleado inicia sesión correctamente.
+>
+>>El empleado le dice al sistema que ya cargo todo lo recogido.
 
-##Casos de uso Incluidos: 1. Cargar kilos a cartonero.
+## 7.Casos de uso Incluidos: 
+>
+>>Cargar kilos a cartonero.
 
-##Finalizacion de caso de uso: 1. El caso de uso se desarrolló de forma correcta.                 
+## 8.Finalizacion de caso de uso: 
+>
+>>El caso de uso se desarrolló de forma correcta.                 
