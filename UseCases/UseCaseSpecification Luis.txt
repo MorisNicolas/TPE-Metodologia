@@ -1,0 +1,120 @@
+#Use-Case Specification: REGISTRAR
+
+##1. Brief Description 
+Un cartonero quiere registrarse en La Cooperativa de Recuperadores Urbanos de Tandil
+
+
+##2. Basic Flow of Events 
+1. PtoExt
+7. Si el cartonero quiere realizar algún cambio en los datos de contacto ingresado, el sistema presenta la opción:
+	-Modificar datos de contacto
+8.El cartonero no selecciona hacer cambios en sus datos de contacto 
+9. Si el cartonero se quiere dar de baja, el sistema presenta la opción:
+	-Dar de baja
+10.El cartonero no selecciona darse de baja 
+11. El sistema guarda la información del nuevo cartonero
+12. El caso de uso finaliza
+
+
+##3. Alternative Flows 
+
+####3.1 (6) El sistema verifica el identificador ingresado
+ 
+3.1.1. Existe un DNI igual
+
+3.1.1.1. El sistema identifica que existe alguien ingresado con ese DNI
+3.1.1.2. El sistema informa de la situación
+3.1.1.3. El sistema solicita reingresar el DNI
+3.1.1.4. El cartonero ingresa un DNI nuevo
+3.1.1.5. Ir al paso (6)
+
+####3.2 (7) Si el cartonero quiere realizar algún cambio en los datos de contacto ingresado, el sistema presenta la opción:
+	-Modificar datos de contacto
+ 
+3.2.1. Modificar datos de contacto
+
+3.2.1.1. El cartonero ingresa los datos que desea cambiar
+3.2.1.2. El sistema registra los nuevos cambios
+3.2.1.3. Ir al paso (10)
+
+####3.3 (9) Si el cartonero se quiere dar de baja, el sistema presenta la opción:
+	-Dar de baja
+ 
+3.3.1. Decide dar de baja
+
+3.3.1.1. El cartonero decide darse de baja en el sistema
+3.3.1.2. El sistema borra datos ingresados 
+3.3.1.3. El caso de uso finaliza
+
+
+##4. Key Scenarios (trigger)
+El caso de uso comienza cuando un cartonero quiere registrarse en el sistema
+ 
+
+##5. Preconditions 
+
+####5.1 Existe otro numero de DNI igual dentro del sistemas
+####5.2 Desea modificar datos de contacto
+####5.3 Decide dar de baja
+
+
+##6. Postconditions (Postcondición: Algo que debe ser verdadero (chequeado por el caso de uso) después de desarrollar su funcionalidad)
+
+####6.1 El nuevo cartonero esta registrado
+####6.2 Los datos modificados son registrados 
+####6.3 Se da de baja un cartonero
+
+
+##7. Extension Points (de acá en adelante, sigan su corazón, despues se pregunta cualquier cosa)
+
+####7.1 <Name of Extension Point\>
+
+
+##8. Special Requirements
+
+
+##9. Additional Information
+
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+#Use-Case Specification: ACTUALIZAR CARTELERA INFORMATIVA 
+
+##1. Brief Description 
+La secretaria quiere actualizar el listado de materiales reciclados aceptados por la cooperativa y cuales no, como se debe entregar el material (estado y forma)
+
+##2. Basic Flow of Events 
+1. El caso de uso comienza cuando la cooperativa genera un nuevo convenio con una empresa recicladora
+2. La secretaria estando en el sistema se ingresa a la sección actualización de información
+3. El sistema ingresa y le brinda el área de información para realizar los cambios necesarios 
+4. La secretaria realiza los cambios necesarios para poder cumplir con las necesidades de los nuevos convenios
+5. El sistema actualiza los cambios
+6. La secretaria egresa de la sección actualización de información
+7. El caso de uso finaliza
+
+
+##3. Alternative Flows 
+
+
+##4. Key Scenarios (trigger)
+El caso de uso comienza cuando la cooperativa genera un nuevo convenio con una empresa recicladora
+
+
+##5. Preconditions 
+
+####5.1 
+
+
+##6. Postconditions (Postcondición: Algo que debe ser verdadero (chequeado por el caso de uso) después de desarrollar su funcionalidad)
+
+####6.1 Se actualizo informacion de cartelera
+
+
+##7. Extension Points (de acá en adelante, sigan su corazón, despues se pregunta cualquier cosa)
+
+####7.1 <Name of Extension Point\>
+
+##8. Special Requirements
+
+##9. Additional Information
