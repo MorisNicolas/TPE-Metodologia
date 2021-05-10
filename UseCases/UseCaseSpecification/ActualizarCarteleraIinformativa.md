@@ -6,8 +6,8 @@
 La secretaria quiere actualizar el listado de materiales reciclados aceptados por la cooperativa y cuales no, como se debe entregar el material (estado y forma)
 
 ***
-
-## 2. Actor Primario:
+## 2. Actores
+### 2. Actor Primario:
 >Secretaria
 
 ***
@@ -18,7 +18,7 @@ La secretaria quiere actualizar el listado de materiales reciclados aceptados po
 >
 >>3.2. La secretaria estando en el sistema se ingresa a la sección actualización de información
 >
->>3.3. El sistema ingresa y le brinda el área de información para realizar los cambios necesarios 
+>>3.3. El sistema ingresa y le brinda el área de información para realizar los cambios necesarios
 >
 >>3.4. La secretaria realiza los cambios necesarios para poder cumplir con las necesidades de los nuevos convenios
 >
@@ -65,4 +65,4 @@ La secretaria quiere actualizar el listado de materiales reciclados aceptados po
 >
 >> El caso de uso se desarrolló de forma correcta.  
 
-*** 
+***

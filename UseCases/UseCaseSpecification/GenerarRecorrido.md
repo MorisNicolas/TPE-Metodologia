@@ -2,21 +2,21 @@
 
 ***
 
-## 1.Descripción Breve: 
+## 1.Descripción Breve:
 >El sistema automáticamente a una hora especifica en los días laborales, crea un listado con cada uno de los empleados indicando que domicilio tendrán que ir a buscar los materiales reciclables y a qué hora tienen que estar allá.
 
 ***
-
-## 2.1Actor Primario: 
+## 2. Actores
+### 2.1 Actor Primario:
 >Reloj.
 
 ***
 
-## 2.2Actor Secundario
+## 2.2 Actor Secundario
 
 ***
 
-## 3.Curso básico: 
+## 3.Curso básico:
 >
 >>3.1 El caso de uso comienza cuando son las 8am. de un día laboral
 >
@@ -34,7 +34,7 @@
 
 ***
 
-## 5.Trigger: 
+## 5.Trigger:
 >El caso de uso inicia en un día laboral a las 8am. creando el listado de recorrido.
 
 ## 6.Precondicion
@@ -45,7 +45,7 @@
 
 ***
 
-## 8.Suposiciones: 
+## 8.Suposiciones:
 
 ***
 
@@ -57,7 +57,7 @@
 
 ***
 
-## 11.Finalizacion de caso de uso: 
+## 11.Finalizacion de caso de uso:
 >Se desarrollo correctamente
 
 ***

@@ -1,15 +1,17 @@
 # Uso de caso: Pesar Materiales
 
-## 1.Descripcion Breve: 
+## 1.Descripcion Breve:
 >El cartonero quiere pesar los materiales recogidos de los domicilios.
 
-## 2.1Actor Primario: 
+## 2. Actores
+
+### 2.1 Actor Primario:
 >Cartonero.
 
-## 2.2Actor Secundario: 
+### 2.2 Actor Secundario:
 >Balanza.
 
-## 3.Curso básico: 
+## 3. Curso básico:
 >
 >>3.1.El cartonero llega al centro de acopio y quiere cargar en el sistema el peso de los materiales que trajo de los domicilios.
 >
@@ -35,13 +37,13 @@
 >
 >>4.2.3. Va al paso 4.
 
-## 5.Trigger: 
+## 5.Trigger:
 >El caso de uso inicia cuando el empleado llega al centro de acopio y quiere pesar los materiales recogidos.
 
-## 6.precondicion: 
+## 6.precondicion:
 >
 >>6.1. El cartonero debe colocar correntamente en la balanza el material que selecciono en el sistema.
 
-## 7.Finalizacion de caso de uso: 
+## 7.Finalizacion de caso de uso:
 >
 >>El caso de uso se desarrolló de forma correcta.                 

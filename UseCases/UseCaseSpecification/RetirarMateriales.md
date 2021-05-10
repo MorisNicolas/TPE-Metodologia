@@ -1,12 +1,14 @@
 # Nombre del caso de uso: Retirar materiales
 
-## 1.Descripción: 
+## 1.Descripción:
 > El cartonero está listo para salir a retirar material reciclable a los domicilios de los ciudadanos.
 
-## 2.Actor Primario: 
+## 2. Actores
+
+### 2.1 Actor Primario: 
 > Cartonero
 
-## 3.Curso básico: 
+## 3.Curso básico:
 >
 >> El caso de uso comienza luego de que el cartonero incia sesión
 >
@@ -36,17 +38,17 @@
 >
 >> El caso de uso finaliza
 
-## 5.Trigger: 
+## 5.Trigger:
 > El caso de uso inicia luego del inicio de sesión del cartonero
 
 ## 6.Precondición
 >
 >> El cartonero finalizó el caso de uso "Iniciar sesión"
 
-## 7.Suposiciones: 
+## 7.Suposiciones:
 >
 >> El caso de uso "Generar recorrido" ya fue activado
 
-## 8.Finalizacion de caso de uso: 
+## 8.Finalizacion de caso de uso:
 >
 >> Todos los domicilios fueron visitados

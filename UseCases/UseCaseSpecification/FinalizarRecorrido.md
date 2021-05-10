@@ -1,12 +1,12 @@
 # Caso de Uso: Finalizar recorrido
 ***
 
-## 1.Descripción Breve: 
+## 1.Descripción Breve:
 > El cartonero está listo para regresar a la cooperativa
 
 ***
-
-## 2.1 Actor Primario: 
+## 2. Actores
+### 2.1 Actor Primario:
 > Cartonero
 
 ***
@@ -14,7 +14,7 @@
 ## 2.2 Actor Secundario:
 ***
 
-## 3.Curso básico: 
+## 3. Curso básico:
 >
 >>3.1. El cartonero ya no tiene domicilios en su lista
 >
@@ -34,7 +34,7 @@
 
 ***
 
-## 5.Trigger: 
+## 5.Trigger:
 > El caso de uso inicia luego de retirar los materiales
 
 ***
@@ -50,7 +50,7 @@
 ***
 
 
-## 8.Suposiciones: 
+## 8.Suposiciones:
 >
 >>7.1. El cartonero ya finalizó el caso de uso "Iniciar sesión"
 >
@@ -66,7 +66,7 @@
 
 ***
 
-## 11.Finalizacion de caso de uso: 
+## 11.Finalizacion de caso de uso:
 >
 >> El cartonero regresa a la cooperativa
 

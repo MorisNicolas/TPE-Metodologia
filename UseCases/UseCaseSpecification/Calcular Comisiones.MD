@@ -7,19 +7,20 @@
 
 ***
 
-##2. 1.Actor Primario
+## 2. Actores
+### 2.1. Actor Primario
 >Secretaria
 
 ***
 
-##2. 2.Actor Secundario
+##2.2. Actor Secundario
 >Cartonero
 
 ***
 
 ##3.Curso Basico
 >
->>3.1. El caso de uso comienza cuando secretaria ingresa al sistema 
+>>3.1. El caso de uso comienza cuando secretaria ingresa al sistema
 >
 >>3.2. Secretaria ve materiales cargados por cada cartonero
 >
@@ -31,11 +32,11 @@
 
 ***
 
-##4 Curso Alternativo 
+##4 Curso Alternativo
 >
 >>4.1 Secretaria ingresa mal los datos
 >
->>4.1.1 El sistema informa que usuario o contraseña son incorrectos, que los vuelva a ingresar
+>>4.1.1 El sistema informa que usuario o contraseï¿½a son incorrectos, que los vuelva a ingresar
 >
 >>4.1.2 La secretaria ingresa los datos.
 >
@@ -43,19 +44,19 @@
 
 ***
 
-##5. Trigger
+##5. Disparador
 >
 >>El caso de uso se inicia cuando todos los cartoneros finalizaron sus recorridos
 
 ***
 
-##6. Precondicion 
+##6. Precondiciones
 >
 >>6.1. El cartonero debe haber recolectado materiales y llevarlos a la cooperativa
 
 ***
 
-##7. Postcondicion 
+##7. Postcondiciones
 >
 >>7.1. Los cartoneros deben saber cuanto sueldo les corresponde
 >
