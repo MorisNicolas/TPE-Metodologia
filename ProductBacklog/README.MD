@@ -1,1 +1,0 @@
-Los PBI's del proyecto se especificarán con formato de User Story y se agruparán según los roles implicados en cada ítem.
