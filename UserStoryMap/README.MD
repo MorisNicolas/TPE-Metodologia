@@ -1,1 +1,0 @@
-Para facilitar la lectura el User Story Map se separó en tres archivos, donde cada uno de ellos representa al mapa de cada rol.
