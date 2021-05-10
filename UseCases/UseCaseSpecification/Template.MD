@@ -1,4 +1,4 @@
-# Uso de caso: Pesar Materiales
+# Caso de Uso: Pesar Materiales
 
 ## 1.Descripcion Breve: 
 
