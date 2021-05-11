@@ -16,58 +16,56 @@
 
 ## 3. Curso básico:
 >
->>3.1. El cartonero ya no tiene domicilios en su lista
+>>3.1. El caso de uso se inicia cuando el cartonero finaliza su jornada laboral
 >
->>3.2. El cartonero marca como finalizado su recorrido
-
+>>3.2. El cartonero marca como finalizado su recorrido.
+>
+>>3.3. Finaliza el caso de uso.
 ***
 
 ## 4.Curso alternativo:
 >
->>4.1. El cartonero tiene domicilios en los que no había gente en su lista
+>>4.1. El curso inicia cuando cartonero tiene que informar domicilios pendientes de retiro de materiales
 >
->>4.2. El cartonero marca como finalizado su recorrido
+>>4.2. El sistema muestra los domicilios que tenia asignado para la jornada
 >
->>4.3. El cartonero regresa a la cooperativa
+>>4.3. El cartonero marca los que quedaron pendientes
 >
 >>4.4. El caso de uso finaliza
 
 ***
 
 ## 5.Trigger:
-> El caso de uso inicia luego de retirar los materiales
+> El caso de uso se inicia cuando el cartonero finaliza su jornada laboral
 
 ***
 
 ## 6.Precondición
 >
->>6.1. El cartonero finalizó el caso de uso "Retirar materiales"
+>>6.1. El cartonero finalizó el caso de uso "Pesar Materiales"
 
 ***
 
 ## 7.Postcondicion
-
-***
+>
+>> 7.1 quedaron registradas domicilios visitados y sin visitar
+***  
 
 
 ## 8.Suposiciones:
->
->>7.1. El cartonero ya finalizó el caso de uso "Iniciar sesión"
->
->>7.2. El caso de uso "Generar recorrido" ya fue activado
 
 ***
 
-## 9. Casos de uso includes:
+## 9. Casos de uso Includes:
 
 ***
 
-## 10. Casos de uso exclusion:
+## 10. Casos de uso Extension:
 
 ***
 
 ## 11.Finalizacion de caso de uso:
 >
->> El cartonero regresa a la cooperativa
-
+>> El cartonero marca como finalizado su recorrido.
+>> El cartonero marca los que quedaron pendientes
 ***
