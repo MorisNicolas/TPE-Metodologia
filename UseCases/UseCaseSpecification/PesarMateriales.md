@@ -6,13 +6,13 @@
 ***
 
 ## 2.Actores
->2.1Actor Primario:
+>2.1 Actor Primario:
 >Cartonero.
 
 ***
 
 ## 2.2Actor Secundario:
->Balanza.
+> Balanza.
 
 ***
 

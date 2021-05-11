@@ -3,7 +3,7 @@
 ***
 
 ## 1. Descripcion Breve:
-La secretaria quiere actualizar el listado de materiales reciclados aceptados por la cooperativa y cuales no, como se debe entregar el material (estado y forma)
+La secretaria quiere actualizar el listado de materiales reciclados aceptados por la cooperativa y cuales no y como se debe entregar el material (estado y forma)
 
 ***
 ## 2. Actores
@@ -14,19 +14,17 @@ La secretaria quiere actualizar el listado de materiales reciclados aceptados po
 
 ## 3. Curso Basico:
 >
->>3.1. El caso de uso comienza cuando la cooperativa genera un nuevo convenio con una empresa recicladora
+>>3.1. El caso de uso comienza cuando la secretaria recibe un convenio de venta con nuevos listados de materiales.
 >
->>3.2. La secretaria estando en el sistema se ingresa a la sección actualización de información
+>>3.2. La secretaria ingresa a la sección actualización de información
 >
->>3.3. El sistema ingresa y le brinda el área de información para realizar los cambios necesarios
+>>3.3. El sistema ofrece modificar los materiales a recibir y en que condiciones se reciben
 >
->>3.4. La secretaria realiza los cambios necesarios para poder cumplir con las necesidades de los nuevos convenios
+>>3.4. La secretaria realiza los cambios necesarios
 >
->>3.5. El sistema actualiza los cambios
+>>3.5. El sistema actualiza los cambios en la cartelera
 >
->>3.6. La secretaria egresa de la sección actualización de información
->
->>7. El caso de uso finaliza
+>>3.6. El caso de uso finaliza
 
 ***
 
@@ -35,15 +33,15 @@ La secretaria quiere actualizar el listado de materiales reciclados aceptados po
 ***
 
 ## 5. Trigger:
->El caso de uso comienza cuando la cooperativa genera un nuevo convenio con una empresa recicladora
-
+>El caso de uso comienza cuando la secretaria quiere modificar el listado de materiales o las condiciones en que se reciben
 ***
 
 ## 6. Preconditions:
-
+>
+>> la secretaria debe estar logueada al sistema
 ***
 
-## 7. Postconditions: (Postcondición: Algo que debe ser verdadero (chequeado por el caso de uso) después de desarrollar su funcionalidad)
+## 7. Postconditions:
 >
 >> 7.1 Se actualizo informacion de cartelera
 
@@ -57,7 +55,7 @@ La secretaria quiere actualizar el listado de materiales reciclados aceptados po
 
 ***
 
-## 10. Casos de uso excluidos:
+## 10. Casos de uso Extendidos:
 
 ***
 

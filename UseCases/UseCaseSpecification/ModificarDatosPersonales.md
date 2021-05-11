@@ -1,18 +1,20 @@
 # Caso de Uso: Modificar Datos
 
-### 1. Descripción Breve: 
-Cuando un cartonero desea cambiar datos personales dentro del sistema de La Cooperativa de Recuperadores Urbanos de Tandil
+## 1. Descripción Breve:
+>
+>> Cuando un cartonero desea cambiar datos personales dentro del sistema de La Cooperativa de Recuperadores Urbanos de Tandil
 
 
-### 2.1Actor Primario: 
->Cartonero.
+## 2.1 Actor Primario:
+>
+>> Cartonero.
 
 
-### 3. Curso básico: 
+## 3. Curso básico:
 >
 >>3.1. El caso de uso comienza cuando un cartonero desea actualizar los datos personales con excepción del DNI ya que una vez registrado no se puede cambiar
 >
->>3.2. El sistema presenta la opción: Modificar Datos Personales
+>>3.2. El sistema presenta la opción: Modificar Datos Personales o Cancelar
 >
 >>3.3. El cartonero selecciona Modificar Datos Personales
 >
@@ -25,38 +27,38 @@ Cuando un cartonero desea cambiar datos personales dentro del sistema de La Coop
 >>3.7. El caso de uso finaliza
 
 
-### 4.1. Curso Alternativo: No decide hacer cambios
+## 4. Curso Alternativo:
 >
->>4.1. 2. El sistema presenta la opción: Modificar Datos Personales
+>>4.1. El sistema presenta la opción: Modificar Datos Personales o Cancelar
 >
->>4.1.2.1. El cartonero decide no hacer cambios 
+>>4.2. El cartonero Selecciona Cancelar
 >
->>4.1.2.2. Ir al paso (7)
+>>4.3. El caso de uso finaliza
 
 
-### 5. Trigger: 
+## 5. Trigger:
 >
-El caso de uso comienza cuando un cartonero desea actualizar los datos personales con excepción del DNI ya que una vez registrado no se puede cambiar
+>> El caso de uso comienza cuando un cartonero desea actualizar los datos personales con excepción del DNI ya que una vez registrado no se puede cambiar
 
-### 6. Precondición: 
+## 6. Precondición:
 >
->>6.1. Debe estar logeado
+>>6.1. Debe estar logueado
 
-### 7.  Postcondición:
+## 7.  Postcondición:
 >
 >>7.1 Se actualizan datos del cartonero
 
-### 8. suposiciones:
+## 8. suposiciones:
 >
->> 8.1
+>>
 
-### 9. Casos de uso includes:
+## 9. Casos de uso Incluidos:
 >
->> 9.1
-### 10. Casos de uso exclusión:
+>>
+## 10. Casos de uso Extendidos:
 >
->> 10.1
+>>
 
-### 11. Finalización de caso de uso: 
+## 11. Finalización de caso de uso:
 >
->>El caso de uso se desarrolló de forma correcta.                 
+>> Los datos fueron modificados correctamente                
