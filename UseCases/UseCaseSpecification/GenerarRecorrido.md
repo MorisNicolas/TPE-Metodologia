@@ -13,24 +13,31 @@
 ***
 
 ## 2.2 Actor Secundario
-
+>Secretaria
 ***
 
 ## 3.Curso básico:
 >
 >>3.1 El caso de uso comienza cuando son las 8am. de un día laboral
 >
->>3.2 El sistema inicia el algoritmo para generar el listado.
+>>3.2 El sistema inicia el algoritmo para generar el listado, chequeando las siguientes restricciones:
+• Se deberá ser equitativo con todos los cartoneros.
+• No se deberá asignar de forma diaria a un cartonero más de lo que puede
+transportar en su vehículo.
+• El total del recorrido (incluido el viaje hasta el depósito) no debe superar los 6km.
+• En aquellos casos donde el volumen a retirar corresponde a la categoría “a”, solo
+se le deberá asignar a un cartonero en caso de que el lugar de recolección quede
+en su camino a otras viviendas con categorías de volumen mayores (es decir, “b”, “c” y “d”)
 >
->>3.3 El algoritmo crea el listado de recorrido.
+>>3.3 El sistema envia el listado generado al correo de la secretaria.
 >
->>3.4 Automáticamente al crear el listado, el listado es enviado al correo de la secretaria.
->
->>3.6 El caso de uso finaliza.
+>>3.4 El caso de uso finaliza.
 
 ***
 
 # 4.Curso Alternativo
+> En caso que no se puedan cumplir alguna restriccion, esta debe ser impresa al final del mail.
+> El caso de uso finaliza.
 
 ***
 
@@ -43,6 +50,7 @@
 
 ## 7.Postcondición:
 
+> El listado fue enviado a la secretaria.
 ***
 
 ## 8.Suposiciones:
@@ -53,11 +61,11 @@
 
 ***
 
-## 10.Casos de Uso Exclusion
+## 10.Casos de Uso Extension
 
 ***
 
 ## 11.Finalizacion de caso de uso:
->Se desarrollo correctamente
+>Se envio el listado
 
 ***
