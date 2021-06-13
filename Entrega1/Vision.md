@@ -6,7 +6,13 @@
 >El grupo al apunta nuestro producto abarca tanto al personal de trabajo de la propia cooperativa, conformado por recolectores y personal administrativo; como a cualquier ciudadano de Tandil que posea materiales reciclables a tratar.
 
 ## 3. Needs
->La plataforma se encargará de administrar la labor logística de la recolección de los materiales reciclables. Los vecinos de Tandil tendrán una herramienta sencilla, pero con múltiples funcionalidades y menor impacto ambiental para deshacerse de aquellos materiales. A su vez, los trabajadores de la cooperativa lograrán realizar sus trabajos de manera mucho más eficiente y con mejor beneficio.
+>
+>>Los cartoneros de la cooperativa necesitan una mejora logística para sus recorridos diarios.
+>
+>>El personal administrativo de la cooperativa necesita una plataforma estable e intuitiva en la que realizar su labor de manera más práctica y eficiente.
+>
+>>Los vecinos de Tandil necesitan una herramienta más accesible mediante la cual deshacerse de sus materiales reciclables.
+>
 
 ## 4. Product
 >
