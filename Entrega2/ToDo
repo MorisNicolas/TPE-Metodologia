@@ -1,12 +1,13 @@
 en la entrega 1:
-arreglar los 4 casos de uso a los que apunta usuarios porque estan escritos en trerminos del cartonero y en diagrama figura una herencia. Modificar datos, dar de baja, etc
+[LISTO] arreglar los 4 casos de uso a los que apunta usuarios porque estan escritos en trerminos del cartonero y en diagrama figura una herencia. Modificar datos, dar de baja, etc
 actor primario tienen que tener el actor primario como usuario
 
-registrar extiende a iniciar. va al reves en el diagrama.
-hay que cambiar las marcas en los 2 casos de uso.
-Hay que sacar el nombre Registrar en curso basico
+[LISTO] registrar extiende a iniciar. va al reves en el diagrama.
+[LISTO] hay que cambiar las marcas en los 2 casos de uso.
 
-en Caso uso registrar hay que poner "extiende iniciar" sesion en el punto 10
+[LISTO] Hay que sacar el nombre Registrar en curso básico
+
+[LISTO] en Caso uso registrar hay que poner "extiende iniciar" sesión en el punto 10
 
 [LISTO] "ver saldos" esta ok
 
@@ -18,7 +19,7 @@ entrega 2
 refinar las user stories de ciudadano
 armar un backlog de tareas (1 o 2 tareas x user story)
 moverlas en el tablero y capturar un screenshot
-si ya hay alguna muy refinada, dejarla asi
+si ya hay alguna muy refinada, dejarla así
 
 
 

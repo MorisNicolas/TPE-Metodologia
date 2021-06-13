@@ -11,7 +11,7 @@ Usuario
 
 ## 3.Curso básico:
 3.1 - El caso de uso comienza cuando un usuario quiere acceder a su sector personal del sitio web.
-3.2 - El sistema ofrece ingresar el nombre de usuario y contraseña o registrarse [ExtPoint Registrar]
+3.2 - El sistema ofrece ingresar el nombre de usuario y contraseña o registrarse [ExtPoint]
 3.3 - El usuario provee su nombre de usuario y contraseña.
 3.4 - El sistema valida los datos
 3.5 - El sistema permite el acceso
@@ -38,15 +38,15 @@ El caso de uso comienza cuando un usuario quiere acceder a su sector personal de
 
 ## 6.Precondiciones:
 
-### 6.1 Secretaria Registrada
-La secretaria ya esta cargada en el sistema y no necesita registrarse.
-
 ## 7. Postcondiciones:
 
 ### 7.1 Login exitoso
 El sistema concede acceso al sector personal del usuario del sitio web
 
 ## 8. Suposiciones:
+8.1 Secretaria Registrada
+La secretaria ya esta cargada en el sistema y no necesita registrarse.
+
 ## 9. Casos de uso Incluidos:
 
 ## 10. Casos de uso Extension:
