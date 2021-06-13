@@ -11,27 +11,27 @@ actor primario tienen que tener el actor primario como usuario
 
 [LISTO] "ver saldos" esta ok
 
-"calcular comisiones"  en casos de uso incluidos hay que agregar el nombre del c.U
+[LISTO] "calcular comisiones"  en casos de uso incluidos hay que agregar el nombre del c.U
 
 ------------
 entrega 2
 
-refinar las user stories de ciudadano
-armar un backlog de tareas (1 o 2 tareas x user story)
-moverlas en el tablero y capturar un screenshot
-si ya hay alguna muy refinada, dejarla así
-
-
-
 [LISTO] separar el git en entregas
 
-en el diagrama de clases: si cartonero es un rombo(agregacion) entonces secretaria tambien
+[LISTO] en el diagrama de clases: si cartonero es un rombo(agregacion) entonces secretaria tambien
 
-ciudadano debe estar relacionado a oferta de transporte
+[LISTO] ciudadano debe estar relacionado a oferta de transporte
 
 [LISTO] unir ingreso a cartonero en el diagrama de clases
 [LISTO] unir venta a material
 
 trabajar los metodos
+
+refinar las user stories de ciudadano
+
+armar un backlog de tareas (1 o 2 tareas x user story)
+moverlas en el tablero y capturar un screenshot
+
+si ya hay alguna muy refinada, dejarla así
 
 hay algo para corregir en la vision (iria como ajustes en la entrega anterior)
