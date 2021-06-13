@@ -11,7 +11,7 @@ Usuario
 
 ## 3.Curso básico:
 3.1 - El caso de uso comienza cuando un usuario quiere acceder a su sector personal del sitio web.
-3.2 - El sistema ofrece ingresar el nombre de usuario y contraseña o registrarse [extPoint Registrar]
+3.2 - El sistema ofrece ingresar el nombre de usuario y contraseña o registrarse [ExtPoint Registrar]
 3.3 - El usuario provee su nombre de usuario y contraseña.
 3.4 - El sistema valida los datos
 3.5 - El sistema permite el acceso

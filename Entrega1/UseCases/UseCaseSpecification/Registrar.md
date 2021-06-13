@@ -62,7 +62,7 @@ El caso de uso comienza cuando un cartonero quiere registrarse en el sistema
 >>
 ## 10. Casos de uso Extension:
 >
->>
+>>10.1 Extiende al caso de uso Iniciar sesión en el punto de extensión ExtPoint cuando se cumple la condición "No está registrado".
 
 ## 11.Finalizacion de caso de uso:
 >

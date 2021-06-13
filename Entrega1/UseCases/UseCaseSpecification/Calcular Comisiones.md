@@ -54,6 +54,7 @@
 
 ##9. Casos de uso incluidos
 >
+>>9.1 Se incluye en el caso de uso Ver saldos.
 
 #10.  Casos de uso de Extension
 
