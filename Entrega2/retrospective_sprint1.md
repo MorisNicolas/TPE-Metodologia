@@ -1,9 +1,9 @@
 
-## Retrospective N° 1
-Reunión realizada mediante videollamada en día 26-05-21
+## Retrospective
+Reuniones realizadas mediante videollamada en los días 26-05-21 y 02-06-21
 
 ### Asistentes
-Durante la reunión estuvieron presentes:
+Durante las reuniones estuvieron presentes:
 * Product Owner y Scrum Master: Diaz Pace Andrés
 * Development Team: Moris Nicolás, Hernández Pablo, Pérez Lucas, Swica Alejandro, Ortiz Nicolás, Contreras Luis Alberto.
 
@@ -20,3 +20,13 @@ Durante la reunión estuvieron presentes:
 * Se acordó que utilizariamos Trello como tablero, pasando al estado "en progreso" a las user stories refinadas.
 
 * Se reviso el diagrama de clases. Se acordó ir completando algunos métodos
+
+* Se acordó corregir la sección "Needs" en el documento de Visión.
+
+* Se acordó refinar más el Criterio de Done.
+
+* Se acordó corregir los siguientes ítems en diagramas y especificación de casos de uso:
+
+	- [ ] Corregir puntos de extensión e inclusión
+	- [ ] Cambiar sentido de las flechas en relación de extensión
+	- [ ] Detallar cuando un caso de uso está extendiendo/incluyendo a otros 
